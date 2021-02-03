@@ -1,1 +1,5 @@
-1 + 1
+private int sum(int a, int b) throws Exception{ 
+	if((a + b) > Integer.MAX) {
+		throw new Exception();
+	return a + b;
+}
