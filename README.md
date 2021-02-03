@@ -1,1 +1,1 @@
-app 1.1-SNAPSHOP
+app 1.1
