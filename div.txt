@@ -1,4 +1,4 @@
-private int div(int a, int b){
+private int div(int a, int b) throws ArithmeticExceoption {
 	if(b==0){
 		throw new ArithmeticExceoption(); 
 	}
