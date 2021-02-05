@@ -1,5 +1,5 @@
 private int sub(int a, int b) throws Exception{ 
 	if((a - b) > Integer.MIN) {
-		throw new Exception();
+		throw new Exception("HAHA");
 	return a - b;
 }
